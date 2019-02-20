@@ -27,6 +27,6 @@ xUnit       1.828    1.769    1.864    1.82   25% longer
 Diff        0.170    0.416    0.521    0.37
 ```
 
-Currently the difference between xUnit and NUnit from a fresh start is 600ms longer for xUnit for 1000 tests. This shouldn't be noticeable under most circumstances, especially hwere tests are actually performing real work.
+Currently the difference between xUnit and NUnit from a fresh start is 600ms longer for xUnit for 1000 tests. This shouldn't be noticeable under most circumstances, especially where tests are actually performing real work.
 
 
